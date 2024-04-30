@@ -10,7 +10,7 @@ using DataAccessLayer;
 namespace LogicLayer
 {
     public class SongListManipulator
-    {
+    { 
 
         List<Song> _songList;
 
